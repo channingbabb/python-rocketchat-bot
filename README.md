@@ -2,12 +2,12 @@
 Rocket.Chat Python basic bot using dpp
 Forked from https://github.com/maxux/python-rocketchat-bot
 
-# dependancies
+# Dependencies
 `emerge -va python-meteor`
 or
 `pip install python-meteor`
 
-# usage
+# Usage
 ```
 def hello(bot, message):
     bot.sendMessage(message['rid'], "React from hello command")
