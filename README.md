@@ -1,5 +1,6 @@
-# python-rocketchat-bot
-rocket.chat python basic bot using dpp
+# Working Rocket.Chat Python Bot
+Rocket.Chat Python basic bot using dpp
+Forked from https://github.com/maxux/python-rocketchat-bot
 
 # dependancies
 `emerge -va python-meteor`
